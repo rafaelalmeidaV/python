@@ -54,3 +54,40 @@
 
 ###################################################
 
+# #Escopo global
+# x = 99
+
+# def func(Y):
+#     #Escopo Local
+#     Z = x + Y
+
+#     return Z
+
+# print(func(10))
+
+##################################################
+
+# var = 10 #global
+
+# def mult(n1,n2):
+#     var = n1 * n2
+#     print(var)
+
+# print(var)
+
+# mult(3,2)
+
+#################################################
+
+# var_global = 10   #variavel global
+
+# def mult(n1,n2):
+#     var_local = n1 * n2
+#     print(var_local)
+
+# print(var_local)
+
+#################################################
+
+# max(1,2,3,4,5,6,7,8,9,10)
+# print(max(1,2,3,4,5,6,7,8,9,10))
